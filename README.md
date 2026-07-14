@@ -11,9 +11,6 @@ This repository contains the online appendix for the manuscript:
 - Online Appendix C: Explanatory Analyses
 - Online Appendix D: Inference Efficiency Analysis
 
-## Online Appendix
-
-[View or download the Online Appendix](./UAP-DL_Online_Appendix_v1.0.pdf)
 
 ## Version
 
